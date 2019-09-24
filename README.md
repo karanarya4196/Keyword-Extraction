@@ -3,6 +3,7 @@
 ### Input.json
 
 An input file for the user where one can enter:
+
 i. The categoryID of the document corpus to extract the keywords.
 ii. The threshold cutoff for similarity with reference keyword list.
     a. Low threshold score => low similarity with the reference keyword list.
