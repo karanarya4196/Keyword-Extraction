@@ -1,0 +1,1 @@
+"C:\Users\Karan.Arya\AppData\Local\Continuum\anaconda3\envs\py36\python.exe" "C:\Users\Karan.Arya\OneDrive - Wolters Kluwer\Karan\WK\Tagging\KeywordExtraction\PythonScripts\main.py"
