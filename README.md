@@ -1,5 +1,7 @@
 # Keyword-Extraction
 
+A module for the extraction of most relevant/important keywords which are highly BFSI domain specific. 
+
 ### Input.json
 
 An input file for the user where one can enter:
