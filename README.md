@@ -8,9 +8,9 @@ i. The categoryID of the document corpus to extract the keywords.
 
 ii. The threshold cutoff for similarity with reference keyword list.
 
-    a. Low threshold score => low similarity with the reference keyword list.
+a. Low threshold score => low similarity with the reference keyword list.
     
-    b. High threshold score => high similarity with the reference keyword list.
+b. High threshold score => high similarity with the reference keyword list.
     
 iii. Reference list: The main keywords which the user believes are important for the specific categoryID.
 
